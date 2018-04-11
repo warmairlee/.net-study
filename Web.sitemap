@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="index.aspx" title="首页"  description="">
+    <siteMapNode url="note.aspx" title="足迹"  description="">
+      <siteMapNode url="addnote.aspx" title="添加足迹"  description="添加足迹" />
+      <siteMapNode url="viewnote.aspx" title="查看足迹"  description="查看足迹" />
+      <siteMapNode url="changenote.aspx" title="修改足迹"  description="修改足迹" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
